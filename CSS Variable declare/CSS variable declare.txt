@@ -1,0 +1,7 @@
+:root {
+    --themeColor: #44972B;
+    --themeHover:#008001;
+    --lightColor:#dcdcdc54;
+}
+
+border-top: 8px solid  var(--themeColor);
